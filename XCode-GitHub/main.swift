@@ -7,6 +7,14 @@
 //
 
 import Foundation
+ // Control flow
 
-print("Hello, World!")
+let day = "friday"
 
+if day == "friday"{
+    print("the weekend is here")
+}else{
+    print("pursuit happiness")
+}
+
+//Practice control flow Projects
